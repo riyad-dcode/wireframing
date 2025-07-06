@@ -5,3 +5,6 @@
 # Navigation
 # Content Placement
 # Functionality
+# Types of Wireframes
+# Low fidelity wireframe involves using lines and shapes with the use of colors and images, High fidelity wireframes involves the use of color and images in prototyping
+# The example is a High fidelity wireframe
